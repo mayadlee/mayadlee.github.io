@@ -1,3 +1,5 @@
-## This is a test.
+## Welcome to my page
 
-Here's some text to see if markdown works????
+Bear with me; I don't quite know how github pages works yet.
+
+Here is a [link](/anotherpage.md) to another page.
