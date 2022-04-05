@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Another page"
-permalink: /index/anotherpage/
+permalink: /anotherpage/
 ---
 
 ## Here's another page!
