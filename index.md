@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Home"
+permalink: /index/
+---
+
 ## Welcome to my page
 
 Bear with me; I don't quite know how github pages works yet.
