@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CS 190 Portfolio"
-permalink: /cs190
+permalink: /cs190/
 ---
 
 ## Welcome to my Music 147/CS 190 Portfolio!
